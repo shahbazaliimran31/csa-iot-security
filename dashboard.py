@@ -1,6 +1,6 @@
 """
 CSA Smart Home SOC Dashboard
-Shahbaz Ali Imran — PhD Thesis Chapter 7
+Shahbaz Ali Imran
 Birmingham City University — March 2026
 
 Five-Phase Pipeline:
